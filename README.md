@@ -17,7 +17,7 @@ Channel Telegram : https://t.me/tunnelingpotato
 apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
 ```
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/common/install && chmod +x install && ./install
+wget --no-check-certificate https://raw.githubusercontent.com/mahpud896/NamySSH/master/common/install && chmod +x install && ./install
 ```
 
 ### What's server included
